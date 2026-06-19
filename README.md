@@ -52,29 +52,15 @@
 <img src="https://img.shields.io/badge/Mobile-3DDC84?style=flat-square&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/VR-FF6B00?style=flat-square&logo=oculus&logoColor=white"/>
 <img src="https://img.shields.io/badge/MR-0078D7?style=flat-square&logo=windows&logoColor=white"/>
-</p>
 
 **Languages**
 
-<p>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-</p>
 
 **3D & Art**
 
-<p>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/ZBrush-B5B5B5?style=flat-square&logo=&logoColor=white"/>
 <img src="https://img.shields.io/badge/Substance-FF5C00?style=flat-square&logo=adobe&logoColor=white"/>
 </p>
-
-<br/>
-
-
-
-<div align="center">
-
-`Game & XR Developer` &nbsp;·&nbsp; `Unity` &nbsp;·&nbsp; `3D Artist` &nbsp;·&nbsp; `Mechatronics`
-
-</div>
