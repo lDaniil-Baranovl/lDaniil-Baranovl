@@ -7,7 +7,7 @@
 
 ### `Game & XR Developer` · `3D Artist` · `Engineer`
 
-**Unity** (PC · Mobile · VR · MR) &nbsp;|&nbsp; **Mechatronics** &nbsp;|&nbsp; **Real-time 3D**
+**Unity** (PC · Mobile · VR · MR) &nbsp;|&nbsp; **Mechatronics** &nbsp;|&nbsp; **3D Designer**
 
 <br/>
 
