@@ -29,6 +29,7 @@
 <br/>
 
 <br/>
+
 ## &nbsp;◆&nbsp; Core Expertise
 
 | Domain | Focus |
