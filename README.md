@@ -59,7 +59,6 @@
 <p>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 **3D & Art**
