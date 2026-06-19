@@ -28,7 +28,7 @@
   Have universal project-related skills: I participate in both software development (**code**, designing **architecture**, and implementing logic) and **visual content** creation (3D modeling, sculpting, texturing, and asset preparation).
 <br/>
 
-
+<br/>
 ## &nbsp;◆&nbsp; Core Expertise
 
 | Domain | Focus |
