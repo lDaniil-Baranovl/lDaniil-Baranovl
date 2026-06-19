@@ -26,7 +26,7 @@
 
 > Building immersive interactive experiences across **games**, **extended reality (VR/MR)**, and **mechatronic systems** — from gameplay code and engine architecture to production-ready 3D assets.
 
-Have universal project-related skills: I participate in both software development (**code**, designing **architecture**, and implementing logic) and **visual content** creation (3D modeling, sculpting, texturing, and asset preparation).
+  Have universal project-related skills: I participate in both software development (**code**, designing **architecture**, and implementing logic) and **visual content** creation (3D modeling, sculpting, texturing, and asset preparation).
 <br/>
 
 
