@@ -34,9 +34,9 @@ Have universal project-related skills: I participate in both software developmen
 
 | Domain | Focus |
 |:-------|:------|
-| **Game Development** | Unity gameplay systems, engine architecture, performance optimization |
-| **XR (VR / MR)** | Immersive interaction design, spatial computing, headset deployment |
-| **Mechatronics** | Hardware ↔ software integration, real-time control, embedded logic |
+| **Game Development** | Development of games on Unity for PC and mobile platforms, creation of game logic, architecture, and performance optimization. |
+| **XR (VR / MR)** | Development of VR/MR projects, creation of interactive and immersive solutions for XR devices. |
+| **Mechatronics** | Development of game and interactive projects for mechatronic capsules, as well as writing drivers and control logic for hardware modules. |
 | **3D Art** | Modeling, sculpting, texturing — full asset production pipeline |
 
 <br/>
