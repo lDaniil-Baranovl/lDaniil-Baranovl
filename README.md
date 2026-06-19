@@ -71,16 +71,7 @@
 
 <br/>
 
-## &nbsp;◆&nbsp; GitHub Activity
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lDaniil-Baranovl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d96ff&icon_color=4d96ff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lDaniil-Baranovl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d96ff&text_color=c9d1d9"/>
-
-</div>
-
-<br/>
 
 <div align="center">
 
