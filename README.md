@@ -1,7 +1,3 @@
-<!-- ============================================ -->
-<!--                  HEADER                      -->
-<!-- ============================================ -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Game%20%26%20XR%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
@@ -34,9 +30,7 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--              CORE EXPERTISE                  -->
-<!-- ============================================ -->
+<!-- CORE EXPERTISE -->
 
 ## &nbsp;◆&nbsp; Core Expertise
 
@@ -49,9 +43,7 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--                TECH STACK                    -->
-<!-- ============================================ -->
+<!-- TECH STACK  -->
 
 ## &nbsp;◆&nbsp; Tech Stack
 
@@ -83,9 +75,7 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--                  STATS                       -->
-<!-- ============================================ -->
+<!-- STATS  -->
 
 ## &nbsp;◆&nbsp; GitHub Activity
 
@@ -99,9 +89,7 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--                 CONTACT                      -->
-<!-- ============================================ -->
+<!--CONTACT-->
 
 ## &nbsp;◆&nbsp; Connect
 
