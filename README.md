@@ -1,6 +1,3 @@
-<!-- ============================================ -->
-<!--                  HEADER                      -->
-<!-- ============================================ -->
 
 <div align="center">
 
@@ -24,9 +21,6 @@
 
 <br/>
 
-<!-- ============================================ -->
-<!--                  ABOUT                       -->
-<!-- ============================================ -->
 
 ## &nbsp;◆&nbsp; About
 
@@ -36,9 +30,6 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--              CORE EXPERTISE                  -->
-<!-- ============================================ -->
 
 ## &nbsp;◆&nbsp; Core Expertise
 
@@ -51,9 +42,6 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--                TECH STACK                    -->
-<!-- ============================================ -->
 
 ## &nbsp;◆&nbsp; Tech Stack
 
@@ -85,15 +73,10 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--                  STATS                       -->
-<!-- ============================================ -->
-
 ## &nbsp;◆&nbsp; GitHub Activity
 
 <div align="center">
 
-<!-- GitHub login: lDaniil-Baranovl -->
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=lDaniil-Baranovl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d96ff&icon_color=4d96ff&text_color=c9d1d9"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lDaniil-Baranovl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d96ff&text_color=c9d1d9"/>
 
@@ -101,9 +84,6 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-<!-- ============================================ -->
-<!--                 CONTACT                      -->
-<!-- ============================================ -->
 
 ## &nbsp;◆&nbsp; Connect
 
