@@ -84,19 +84,6 @@ I work at the intersection of **engineering** and **art**, owning the full pipel
 
 <br/>
 
-
-## &nbsp;◆&nbsp; Connect
-
-<p>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<br/>
-
-<br/>
-
 <div align="center">
 
 `Game & XR Developer` &nbsp;·&nbsp; `Unity` &nbsp;·&nbsp; `3D Artist` &nbsp;·&nbsp; `Mechatronics`
